@@ -1,4 +1,4 @@
-# E-Commerce Backend
+# E-Commerce 
 
 This is the backend for an e-commerce platform. The application provides an API for managing products, orders, users, and authentication, allowing you to integrate with a frontend for a complete shopping experience.
 
