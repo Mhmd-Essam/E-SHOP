@@ -55,9 +55,13 @@ Ensure you have the following installed:
 
 
 4.To run the application in development mode:
+
    npm run dev
 
 5.To run the application in production mode, after building it:
+
    npm run start
 
 
+
+This README now contains the full documentation for your e-commerce backend project in one file, as requested. Let me know if you need any further adjustments!
